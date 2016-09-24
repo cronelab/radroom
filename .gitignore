@@ -61,5 +61,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-radroomUE4/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-radroomUE4/Saved/Logs/radroomUE4.log
+UE4Projects/radroom/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+UE4Projects/radroom/Saved/Logs/radroomUE4.log
