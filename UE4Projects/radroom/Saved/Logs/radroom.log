@@ -257,4 +257,142 @@ LogInit: Object subsystem initialized
 [2016.09.24-16.15.51:643][ 23]LogWorld: Bringing World /Game/UEDPIE_0_Scene.Scene up for play (max tick rate 0) at 2016.09.24-12.15.51
 [2016.09.24-16.15.51:643][ 23]LogWorld: Bringing up level for play took: 0.001741
 [2016.09.24-16.15.51:668][ 23]PIE: Info Play in editor start time for /Game/UEDPIE_0_Scene 0.574
-[2016.09.24-16.16.23:832][165
+[2016.09.24-16.16.23:832][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene" FILE="../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.09.24-16.16.23:868][165]LogSavePackage: Save=21.61ms
+[2016.09.24-16.16.23:868][165]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/SceneCBFC78D8439AA8E2CCDCBA9F0F1C2467.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap'
+[2016.09.24-16.16.23:869][165]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap
+[2016.09.24-16.32.28:981][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.24-16.32.28:981][ 99]PIE: New page: PIE session: Scene (Sep 24, 2016, 7:32:28 AM)
+[2016.09.24-16.32.28:981][ 99]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Scene
+[2016.09.24-16.32.28:983][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2016.09.24-16.32.28:983][ 99]LogAIModule: Creating AISystem for world Scene
+[2016.09.24-16.32.28:983][ 99]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2016.09.24-16.32.28:983][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene.Scene to /Game/UEDPIE_0_Scene.Scene (0.002430s)
+[2016.09.24-16.32.29:006][ 99]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.24-16.32.29:012][ 99]LogInit: FAudioDevice initialized.
+[2016.09.24-16.32.29:112][ 99]LogWorld: Game class is 'GameMode'
+[2016.09.24-16.32.29:114][ 99]LogWorld: Bringing World /Game/UEDPIE_0_Scene.Scene up for play (max tick rate 0) at 2016.09.24-12.32.29
+[2016.09.24-16.32.29:114][ 99]LogWorld: Bringing up level for play took: 0.001608
+[2016.09.24-16.32.29:137][ 99]PIE: Info Play in editor start time for /Game/UEDPIE_0_Scene 0.043
+[2016.09.24-16.35.29:231][497]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.12/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.12/Engine/Content/' is outside repository
+[2016.09.24-16.35.42:893][497]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.09.24-16.35.42:925][497]SourceControl: Info On branch master
+[2016.09.24-16.35.42:925][497]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.09.24-16.35.42:925][497]SourceControl: Info Untracked files:
+[2016.09.24-16.35.42:925][497]SourceControl: Info 	UE4Projects/radroom/Saved/Logs/Git-TempB4E5E65E422E403D8DE4CAA71811EA42.txt
+[2016.09.24-16.35.42:925][497]SourceControl: Info nothing added to commit but untracked files present
+[2016.09.24-16.35.42:928][497]SourceControl: Info Commited On branch master.
+[2016.09.24-16.36.26:225][383]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.12/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.12/Engine/Content/' is outside repository
+[2016.09.24-16.37.33:810][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.09.24-16.37.41:102][118]LogActorFactory: Actor Factory created Sphere
+[2016.09.24-16.37.41:455][153]LogActorFactory: Actor Factory created Sphere
+[2016.09.24-16.37.47:455][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene" FILE="../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.09.24-16.37.47:492][859]LogSavePackage: Save=20.43ms
+[2016.09.24-16.37.47:492][859]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/SceneDB61086E4F72FB58E4B005A7393B4114.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap'
+[2016.09.24-16.37.47:494][859]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/Scene.umap
+[2016.09.24-16.37.49:213][ 60]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.12/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.12/Engine/Content/' is outside repository
+[2016.09.24-16.37.59:281][ 60]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.09.24-16.37.59:312][ 60]SourceControl: Info [master 6c9f0d6] butt butt
+[2016.09.24-16.37.59:312][ 60]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.09.24-16.37.59:316][ 60]SourceControl: Info Commited [master 6c9f0d6] butt butt.
+[2016.09.24-16.59.33:960][436]LogEditorTransaction: Undo Make New Scene Root
+[2016.09.24-16.59.37:535][841]LogEditorTransaction: Undo Add Component
+[2016.09.24-16.59.48:624][133]Cmd: TRANSACTION UNDO
+[2016.09.24-16.59.48:624][133]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.00.24:438][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene' took 0.017
+[2016.09.24-17.00.24:450][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_Pawn] ([1] browsable assets)...
+[2016.09.24-17.00.24:450][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_Pawn]
+[2016.09.24-17.00.24:450][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.09.24-17.00.24:467][369]LogSavePackage: Save=11.88ms
+[2016.09.24-17.00.24:467][369]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn_Auto125AB64A24BBF2DF75CA842A1B48189AC.tmp' to '../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto1.uasset'
+[2016.09.24-17.00.24:468][369]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto1.uasset
+[2016.09.24-17.00.24:468][369]LogFileHelpers: Auto-saving content packages took 0.018
+[2016.09.24-17.00.26:698][636]Cmd: TRANSACTION UNDO
+[2016.09.24-17.00.26:698][636]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.01.30:850][250]LogEditorTransaction: Undo Rename Component Variable
+[2016.09.24-17.01.32:583][438]LogEditorTransaction: Undo Make New Scene Root
+[2016.09.24-17.01.34:521][669]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.16.08:784][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene' took 0.016
+[2016.09.24-17.16.08:785][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_Pawn] ([1] browsable assets)...
+[2016.09.24-17.16.08:785][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_Pawn]
+[2016.09.24-17.16.08:785][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.09.24-17.16.08:803][391]LogSavePackage: Save=13.10ms
+[2016.09.24-17.16.08:803][391]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn_Auto2E0C3566A441B29B15FC55E851CB6EC09.tmp' to '../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto2.uasset'
+[2016.09.24-17.16.08:804][391]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Saved/Autosaves/Game/VR_Pawn_Auto2.uasset
+[2016.09.24-17.16.08:804][391]LogFileHelpers: Auto-saving content packages took 0.019
+[2016.09.24-17.19.51:611][ 94]Cmd: TRANSACTION UNDO
+[2016.09.24-17.19.51:611][ 94]LogEditorTransaction: Undo Rename Component Variable
+[2016.09.24-17.19.54:126][374]Cmd: TRANSACTION UNDO
+[2016.09.24-17.19.54:126][374]LogEditorTransaction: Undo Attach Component
+[2016.09.24-17.19.56:770][689]Cmd: TRANSACTION UNDO
+[2016.09.24-17.19.56:770][689]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.20.01:412][244]Cmd: TRANSACTION REDO
+[2016.09.24-17.20.01:412][244]LogEditorTransaction: Redo Add Component
+[2016.09.24-17.20.02:730][380]Cmd: TRANSACTION UNDO
+[2016.09.24-17.20.02:730][380]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.20.03:358][453]Cmd: TRANSACTION UNDO
+[2016.09.24-17.20.03:358][453]LogEditorTransaction: Undo Rename Component Variable
+[2016.09.24-17.20.05:798][745]Cmd: TRANSACTION UNDO
+[2016.09.24-17.20.05:798][745]LogEditorTransaction: Undo Add Component
+[2016.09.24-17.20.18:565][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.20.18:581][262]LogSavePackage: Save=13.59ms
+[2016.09.24-17.20.18:581][262]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn2A84AEDF42C5472F6645E09963359460.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.20.18:582][262]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.20.20:814][528]BlueprintLog: New page: Compile VR_Pawn
+[2016.09.24-17.20.20:884][528]BlueprintEditorCompileResults: Info [4508.92] Compile of VR_Pawn successful! [in 69 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.09.24-17.20.22:015][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.20.22:028][656]LogSavePackage: Save=11.55ms
+[2016.09.24-17.20.22:028][656]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn7D3A08554502B393B79E0E8639A3C2BA.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.20.22:029][656]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.26.04:493][479]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.obj)
+[2016.09.24-17.26.04:599][479]LogFbx: Loading FBX Scene from ../../../../../Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.obj
+[2016.09.24-17.26.04:740][479]LogFbx: FBX Scene Loaded Succesfully
+[2016.09.24-17.26.33:769][479]LogFbx: Loading FBX Scene from ../../../../../Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.obj
+[2016.09.24-17.26.33:906][479]LogFbx: FBX Scene Loaded Succesfully
+[2016.09.24-17.26.33:925][479]LogLinker:Warning: Can't find file '/Game/whole_model_group1Mat'
+[2016.09.24-17.26.33:925][479]LogLinker:Warning: Can't find file '/Game/whole_model_group1Mat'
+[2016.09.24-17.26.33:946][479]LogMaterial: Missing cached shader map for material whole_model_group1Mat, compiling. 
+[2016.09.24-17.26.34:011][479]LogFbx:Warning: Triangulating static mesh whole_model_group1
+[2016.09.24-17.26.35:596][479]LogStaticMesh: Building static mesh vr_controller_vive_1_5...
+[2016.09.24-17.26.36:049][479]LogStaticMesh: Built static mesh [0.46s] /Game/vr_controller_vive_1_5.vr_controller_vive_1_5
+[2016.09.24-17.26.36:257][481]LogHttp:Warning: Timeout processing Http request. 00000271381F5900
+[2016.09.24-17.26.52:726][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vr_controller_vive_1_5" FILE="../../../../../../radroom/UE4Projects/radroom/Content/vr_controller_vive_1_5.uasset" SILENT=true
+[2016.09.24-17.26.52:750][165]LogSavePackage: Save=21.91ms
+[2016.09.24-17.26.52:750][165]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/vr_controller_vive_1_56653D571436FDCDED560978981E8BFFD.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/vr_controller_vive_1_5.uasset'
+[2016.09.24-17.26.52:751][165]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/vr_controller_vive_1_5.uasset
+[2016.09.24-17.26.52:891][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/whole_model_group1Mat" FILE="../../../../../../radroom/UE4Projects/radroom/Content/whole_model_group1Mat.uasset" SILENT=true
+[2016.09.24-17.26.52:903][165]LogSavePackage: Save=10.00ms
+[2016.09.24-17.26.52:903][165]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/whole_model_group1Mat25C631A74E6799A8643CDC9EAFAE2B5D.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/whole_model_group1Mat.uasset'
+[2016.09.24-17.26.52:904][165]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/whole_model_group1Mat.uasset
+[2016.09.24-17.27.42:212][972]BlueprintLog: New page: Compile VR_Pawn
+[2016.09.24-17.27.42:334][972]BlueprintEditorCompileResults: Info [4950.37] Compile of VR_Pawn successful! [in 122 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.09.24-17.27.42:801][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.27.42:818][ 17]LogSavePackage: Save=12.45ms
+[2016.09.24-17.27.42:818][ 17]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_PawnE5FC6D2D4BBD78E5B8B213BEE7EA3471.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.27.42:820][ 17]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.28.09:857][210]BlueprintLog: New page: Compile VR_Pawn
+[2016.09.24-17.28.09:983][210]BlueprintEditorCompileResults: Info [4978.02] Compile of VR_Pawn successful! [in 124 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.09.24-17.28.10:719][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.28.10:735][287]LogSavePackage: Save=13.54ms
+[2016.09.24-17.28.10:735][287]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn61D154C54D6AD4114BB368A922034CB4.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.28.10:736][287]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.28.54:443][484]BlueprintLog: New page: Compile VR_Pawn
+[2016.09.24-17.28.54:518][484]BlueprintEditorCompileResults: Info [5022.56] Compile of VR_Pawn successful! [in 74 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.09.24-17.28.55:516][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.28.55:536][591]LogSavePackage: Save=18.17ms
+[2016.09.24-17.28.55:536][591]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_Pawn50EE9FFC4AA5C09B11E4ADBD247B5109.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.28.55:538][591]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.32.14:504][958]BlueprintLog: New page: Compile VR_Pawn
+[2016.09.24-17.32.15:158][958]BlueprintEditorCompileResults: Info [5223.20] Compile of VR_Pawn successful! [in 653 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.09.24-17.32.15:891][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset" SILENT=true
+[2016.09.24-17.32.15:911][ 36]LogSavePackage: Save=18.07ms
+[2016.09.24-17.32.15:911][ 36]LogSavePackage: Moving '../../../../../../radroom/UE4Projects/radroom/Saved/VR_PawnE68679F44116C13806531E8801183612.tmp' to '../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset'
+[2016.09.24-17.32.15:913][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../../radroom/UE4Projects/radroom/Content/VR_Pawn.uasset
+[2016.09.24-17.33.43:008][497]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.12/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.12/Engine/Content/' is outside repository
+[2016.09.24-17.33.53:722][497]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.09.24-17.33.53:754][497]SourceControl: Info [master a7dc971] motion controllers
+[2016.09.24-17.33.53:754][497]SourceControl: Info  3 files changed, 0 insertions(+), 0 deletions(-)
+[2016.09.24-17.33.53:754][497]SourceControl: Info  rewrite UE4Projects/radroom/Content/VR_Pawn.uasset (62%)
+[2016.09.24-17.33.53:754][497]SourceControl: Info  create mode 100644 UE4Projects/radroom/Content/vr_controller_vive_1_5.uasset
+[2016.09.24-17.33.53:754][497]SourceControl: Info  create mode 100644 UE4Projects/radroom/Content/whole_model_group1Mat.uasset
+[2016.09.24-17.33.53:758][497]SourceControl: Info Commited [master a7dc971] 
